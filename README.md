@@ -38,7 +38,3 @@ This dashboard is designed to help analysts, managers, and teams understand sale
 ## 🤝 Contributions
 
 Feel free to contribute improvements—such as adding new visuals, cleaning data, or expanding insights. Pull requests are welcome!
-
-
-
-If you want, I can **customize the README** further with images, badges, or a professional layout—just tell me!
